@@ -1,0 +1,32 @@
+{
+  "session": {
+    "new": true,
+    "application": {
+      "applicationId": "amzn1.ask.skill.3fb8a83c-bc07-4260-a095-b7ba39cbb74c"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.3fb8a83c-bc07-4260-a095-b7ba39cbb74c"
+      },
+      "device": {
+
+      }
+    }
+  },
+  "request": {
+    "type": "CanFulfillIntentRequest",
+    "intent": {
+      "name": "aboutIntent",
+      "slots": {
+        "voiceExpert": {
+          "name": "voiceExpert",
+          "value": "Anna"
+        }
+      }
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,27 @@
+{
+  "session": {
+    "new": true,
+    "application": {
+      "applicationId": "amzn1.ask.skill.3ff033c6-6501-4f59-b82e-8d42fff068a2"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.3ff033c6-6501-4f59-b82e-8d42fff068a2"
+      },
+      "device": {
+
+      }
+    }
+  },
+  "request": {
+    "type": "CanFulfillIntentRequest",
+    "intent": {
+      "name": "aboutIntent",
+      "confirmationStatus": "NONE"
+    },
+    "locale": "en-US"
+  },
+  "version": "1.0"
+}
